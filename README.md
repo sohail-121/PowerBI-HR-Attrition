@@ -17,3 +17,5 @@ The aim of this project is to practice real-world data visualization and analyti
 (https://bit.ly/3TmtJnf)
 
 6. Screenshots  :
+
+   ![Dashboard Preview](https://github.com/sohail-121/PowerBI-HR-Attrition/blob/main/Dashboard_snapshot.png)
